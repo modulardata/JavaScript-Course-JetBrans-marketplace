@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 156
+        length: 315
+        placeholder_text: /* Add the bankAccount() function implementation */
+        initial_state:
+          length: 51
+          offset: 156
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 19B7Yy2JOzE1Ywkb9tMuNaKnpZxlOJ0CRu2+OkrRBGKe7bRYw6nOMUIMxqv5k+NDlFnC9iNgxoMXetbZoRnoaFdXU0R1RpktIjXr/Yko2rScEtv2PQhYmb0XB4IW8+qmjNxThnDiS7BJ5hQ7p4kyI91NEGqUDl5oMVIONarO+9/irGkE1jphSSaENR+yA2JreWOwbsh5CAozlCbK0/FiXuuoF0ImexCuSZSZPmHmkJSoXwyM7UhIjCv7vVgDKsJysJlxhoVDaX8iL7CosfYgCjCDkxhZmI2ocWMPX8wXjbuBVaHldQNLH1+eykJ3OoXEIpo+aUNOWQTLzscnXKFuhcUYZ9hF7y4jMzyeEa4xR+gk1/c50mU44qCk+PUZN042wavgWTuZOi5Tdgl1QpipKH0h5LW41/j8KnXMTyFRlvjYYF9/uA3PhfhmFDVc3pMA+jcgnC2WvCsEwMYkK+dVbcUeADidvRUPStPLWJDBL3qNj8PzTqOl81WoGDyLLHULqaeLtBSqK7jAAYzjwPo6ATwTaIG5Xv5ZECBfu995akrNjmwa1mzTAqHoYRl73S/d
+    encrypted_text: 070vpyKyyudRW7T4CUWlCqgm4YcbLk40L5LfUhjwAdiy++4NQ72i35ZuuNCXXrsjcFHXxgzp0deJWLS/dyW2bCCfjxceyO7sj5e4R/WswOOASR1qxJtjNuWxsg0bEiSFFhOg5C6rCHBS+aA50JBKN5eneyKry6dKpcYnRR+uAGlLqxRzMfEj1MElzCvYWn1gbmFchc6uHr67hR0o9G6Y6NyG983cGyRefuwrAXFjAm3VSLmAjvVjKFz/dyHFpiwaIDvQWvRPrl2T8nYWSyIlYixWUOTKzBEdidVCnnSFKA/YdVRRU0ig2rv8nRMJ1EYi6UN03rhr5tXwD5yID4YrETXYhOS1TcBHihGztLS6okY5T3MvILs3kWo0Jhp75iFfa3s6xhTnDV6RE+KeDTcsnet8r+FZflhHMszYg+/IPZ4anHmGwD7FqSfXyeSQt95oq9Uk0Ng/DlajySLHrZjBRkm5OX15TeK+SqyqeWZh2cbI/mAv0slSXjYMrP3lsBc0dUUH9JVY3Vt1z7fhQVaZgrLkTE7Gp11pK35d6bsD9x9xsHFGEgnhNnd67fSA6dA432b9nTMcfx0lDAv7MErBZ8MO32BbB127NVDC0tEA3qjOimZ8h27RUjZqBNlEvpnp6iKn3CgMsait88ynf0fU5A==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QWzn4skKmmC2wI2P5NtM6ESQ5FofDdEZGerfAAFwNhSCP5QIbo36rJUdtZK86rkStai5q471GX7JfF7UOGfeDCPLbFe4EFNOqqi4XnOlZSC/AgnFholZVES0N5mKCD0YZDA5O5STUHd+l/9w5nsL+/z4kK1BwZLgeynNfKdM2tdC13paEikiaolEnA5uxmpdRAj4S873NgXlqaIysgFizHXSPOx9UZhWldwyJyLlIc+CW7P+CFqQsXtiOZVBabT8V1qfAdaDFPrmkHsNXj5h9TFrepS02kTu0K26zg2nVRCqHJA9uml//f5PMln66FoyVaFRlTV3/8Lj7NwwGXyY2PpHf6xFYXHM4sRuysu5z0iRGlIkT0fp9j+ZhD5O44dj+2RkTg1d9W7O5bpMjgJZ7htY5C/Y00ekV7MDvcdpytO4lgpKw8TQhijzuQJKFdazz7caK7YqlENQ00D1juSPWXEN2shm/VtuBh3rcOWE1SwvnS6eu2HaX25Zlay2e7RmSg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 25 Jan 2024 06:37:26 UTC"
+record: -1

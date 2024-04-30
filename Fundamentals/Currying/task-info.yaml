@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    encrypted_text: w3skR0SL22MFnIi/qkjS8HDb242xul/phE2D0eT1wTBZldjQGZoXJn+aTXVxswr5WmbQM7795x/HLEMtUQDe8R/sUeFHyVP3ES0TJGGZmffChRVPdaLZE+TnYQDgeB+rlA2kxDWl5ogjKzosJ0rjfbtFfNglode/p0uDJS1bsOmvJNPy80+t73fdTBJ4WEJGgnc1uh+2h2KVhB8MMoGiroGLfsZncha0lcGVxVYzwBAUy4/zCd6ZBTIHKQfAj1jGs85F9vMlih3Vb8jnRCjGi936NyjinNaEpRd6VEe1iA0DnPkPu1ZE6Kpp+A6U4R61HTWgiRvFCNYAVSjOHRJ1G4SdrqMEfODUUE/1Q6vgnbyev3+tCji3LCszHZGOEkEEhm+SwipM+CJiILxi9iNqiEMVIk0cWd5xFTq/ZbiH4VF+MfmDOqZ/9bP4AhYFb8QCR+9HYFbxuJv6To1uaXPWq461P43klM9fha/uhTrfkrj8HFfOFi4NDX1EGk0jeTYfSqGjxioQNXau6nLZjiKzead52qiRMfXx7nvxUPyeP2EWgoZhFPlG3cr/hOu1Bj/bQwWk7xXqceSYirmhQA6ifYxBb4XGIxn19cPJ8JI5Vz1P5ILRxq0ln0p5whCugzduqDzkN6LWra5I5hVIb4WkzYGu658BAXcGYY7ZTBkOUqxz77W+0FXdfAkighlcQyisMLQ9CeBK+G/sGFGymSzBG6f6rmGeFtrlIX9J6Cqb79K3emzOWqA9T0NqGthmAQOpFQm8uajGEk59gc0zbdz6QkGpux6n4P3v4rPUgWcTw3X2//d5TweIVDOGlqyMuuiuk52AmafTh8OyO8TFY8L4SXhpQ6lYwsY3kGShGxLJEt6vNCvBTlkiZOjc5+b1f7qq7NZMtToJMP3cuiesVfgJVw==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QceIfg1qhp5mycfUwCaSmbD0O2qoZ+m4AjiO4I4vHR3ah3Z14F4zimdRjaaaxPU2gJHQanaTUVu/iR6HUGWqCfTzeXJ6XEhX9fKUPInvNL+NdyI1xybisA53FT2Mf/cIl3xXZya7utyA2yOGxKXLpLz4ohxkrlm3fvIdieCIG/JNhqCwihsnjHg7CyLrUyHNk4fwjBl6ofpFsO6WFAdAWfkWKrQu/uL8dm5pX/5e/LIcOwWwZXxg/SVRDn/nrcfn2jGhVeU86AFiCkZASedb2eT7ed/kOpuz9AjaGoPvIHW1RBafMMqn7m5mgj4WaMGIf2q8M9j+idgRj6rZXr/MAaeNtft0xak+Yw1BJohlMZFr37rO2nvtEzQ+vm51/CGTzENS+CAYKYKJcq63x/FbVe6pbCts+Y6EZoCHHuUjRzdz
+    learner_created: false
+  - name: log.js
+    visible: true
+    encrypted_text: w3skR0SL22MFnIi/qkjS8OXQtp2AlxHwwre8xfbEBqAQRks/ZnDENJg7bhY7LyGEX1AbStCAgvCrgn/hsCrvxCzPz3+hnrMIAuSE5d0dYavHdcVoTCzBklOuUeNVP/4e8awKnOt4wz+BojzX+WsHNG/mMUM6LTQ+e4fR/ngwmV5tiylbvtAdgOJZDwmeW50Wtvqzs3ImJ/stsP0vW9YyL4v4yiCs9sBOsYnXnaI9iTUhte+CbGzhE0didgyRTetV4LpYXCmz2lCML+b2eN2+c6KQskZuXHO3nuM+Tbu10zoGxQmi2VA23biiQp1cN/sN6icZ3HAprwhF0n+d8nOoqvPo85+lFiMnePdaiFJjbYFaKy/l/iNKxx8TbHnQNpaAXlKLrccDSWDcXSlouqbCzY0oR2deBK4Fu/EOq9cZOacdijQzuWp/auujGcDOI4dSR05LcFAR1gpHCMHXkeKroPcc4d3QKXV+atFpMrFEQAnyAqmTuV4d49U8ynvz2bbdGR8fYhGfqLq1hKe6FgIJQkJwzAaHEkOMp5MaJGFb+mxkil0oLBzGE68loTrmyjoInavZmBX3/9GALLW0+2zjDU/BkZPe1tIHxDPXrgxfz30jm1kOxFirYkdaec1sDeQK2ZAGWzQ+do+2t6mAAvlva8LRSH3OUNzy35B19X/A6Qy6kzZXX/hn7WjjFRbCA0hleoe9FI0wBykuBPYDuPyLEHJnuSABKOLZAbRTW/hg6HCrbNpv9weM+GydmMd/dm74qeIETcvjLqMjIfkROB8nplyeW+4sChxlUwjDnAKWFIr9lqJDccwunsDkTJSVD2sfm1NiiwPGwU8e7KHmxv+JsCCFX73YlPfflW3KUWBEcTf4G3L3aZRgd5yIA3e6UPQxAIfd/JTYIhOh4eJio6a8bkvxVux0RU3zxpM8aRTHq28yP0jgKPekQqvvURc6yeyyoujUCHJYp+6XGtr2H4uM21ilrSBhvdhyceNjg0KFP5uvhusAkVFZDbrbYO8wNZu+KbQY6VH2mNq54Pl622r3BJlvm5EHfojka2Ffso1XkwV4sI41WFVJSlFVj2ltbtnRBLuc066EGMNRU0XDEcNr+i0NjNNFUmiLkRav7IL4t+ORq+yb2FH+DZHzCHWnEZ3avLSZ52+BRlqZSR2dsSxidYaus3rThj0uIG77ruTy5iSvgX9mFX9sdSngucTeLtddf3ConTMFqKKWpay0ZKqn5JryaW0HH8YNJq1/MSkUfWhJ10EI/1Gd1UdG/B2h2kstdvHElY2gF3fYkEGkBbmHd44jQLtIGgD6j2rhAbdn6/cqc0uBz0n0W6PFRo1PkMIw44xQ6NMpEjeR2t9Ih6Rl3DiarE0UPbsuNp6rr5hY8vgFWh5GA76ZNdLfmGNivjla/LtbhjBcchCkxDhZBIy6+aahNgBW3alqzQH8v0evUk/ojKdl+Yh2o522A416/fHg
+    learner_created: false
+  - name: substring.js
+    visible: true
+    placeholders:
+      - offset: 723
+        length: 71
+        placeholder_text: /* implement the getFirstCharacters function as a var variable
+          */
+        initial_state:
+          length: 65
+          offset: 700
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: +vY55YlYsZv5sEPvCQCK6QRAJlcXza2rIr0D2Al6xWrl/SooqiWHvNiKb+0LJmrP98PNab2tKfhb6bFe5WNMtScADz7mz8bq5IHJgwVR3wc=
+      - offset: 968
+        length: 104
+        placeholder_text: /* implement the getFirstCharacter function as a var variable
+          */
+        initial_state:
+          length: 64
+          offset: 895
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: +vY55YlYsZv5sEPvCQCK6VRlOmwkRKCtmcZhwoymcNPHpnQSDGxEU9CPBiVVsqxRlvP9NGOkh7oC7p6rqHATvQ==
+    encrypted_text: UtOJAOp+ERAG7YqhrYPRWfc1Fsk4laqCSLAJYS8shnzHBO4lbDUfyMOii4Jk0rPHYpZ1GOXU4bhavgJZPW56IfcfkHnMu7GarNOIb3UQDVWITWUF3kWAfSgMy+cf7lc2bQOQRhzauvsBI0f0Z1s53YVArAEyvVw0fURGV9y2PS/wRis/ySXeU0CMNVTuGwunWvWRIcLCnpUN7jgG4hjFgo08NDq4wxaHISFcxGBBHD0vGw89KaAfUK3U4rwF4hDJbb6aSYB45lVuArSJq0nZPo8jEp4z3pDTmO1vWOLboQlKMRRakOJyDqYqcSg7y1I3kZHaNVbfu+vBv/6Ykm4Q2pRHThVOJ26j/jNOHaw5PK+jkVVrCgmJObjtiw6C4rnsLe+eB6IScxrqMHJovbSCQQup7gwZ2hDV61baSQXy3bvwLkW4vEOQfjygPy70nYs2GSE1CUNLWnkn5al7OgfApMaAS5jM7P601INneECWHz0le98LoZ/65MNAxTdD09R1rb9n4nN1gBkB1wyEDdPWq/7Oq4+5iubKiGPKdpAbkZarlZ/nxRvEHfKK3kQnOVdDW/EtKKutCe+TSdr3i+qWahgVD+inhb+YE/yOlS+Bqh+fd5CYCYvxllq+tNqdXsg3lRAlJG2aV4QyANZ4C6D05zOWyHsKX0CfKZZzcYO6PubNz+6mruiJoLo3gne7b6FYoZ0rcRf8mNIQWOu+p0+2Eb/Mc3uqWaHo5RPZ64pjDK6yYPQ69N0JTqbUT4Tnf8bZj9BNvA9u4YrN965azTOSdANhyNMFjTpHmtH5R+7i2hs5LV5LZXcXyNxtbv0J9KusU214QgFBr7qpeCn6Pp3zCczRK5rq9ePo59mbR1lq8WO7QjFG8wgWE9KpBGq/7UzEW41lakQzWWCA1fcx1FJLQtzrFoiPpshUiZxqhaeKi5LXSQoXVbd3oG5jnCqXYEB8eq+qdYtFd7hOMuxccpTdokCBb2LJmHZ+3ZLz0BpmfGkTqIIvIQuSBn5ddHXsMVQqif/C5Vtf5VDFK0ME9ErpwDAyJbR5erChX89yZ/khkLYvUgNQLCNWZF0rqbGtFi1jwd+1GDYk4LISNBp/yDB1bxeomeqHNSdlK6yms6/BV7EbO74HFRbtf5b/IqlyUjx8ZvPN1qtXmgOQOk/AOVU96hD9HrnNEeoA1AuJMH80LF+24ilDMB9foCYr31SDzvelHGuiTVRZ6/OtHLw5a8BkuoZwXhAfXD14jB3qZIBTKsf2p05P0x31l13nyZufECJm
+    learner_created: false
+  - name: index.html
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 25 Jan 2024 07:06:14 UTC"
+record: -1

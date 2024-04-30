@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 544
+        length: 36
+        placeholder_text: /* write the 'data' event handler */
+        initial_state:
+          length: 36
+          offset: 544
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: lGlFUXHt5rKmQUQ0pk1uRrRUAOFEYtVIKy3BSFcGHU2r3HS/FjUixK1jml3zsLnNxaq6uXI9KDeRl7VfZn2+fX7qguU1bPlx82PI076pRhyaFhGpRbDCnErxexolyk/BruXksUZl+/I2qVdW/To0d8fpfzQaf9lxF90+wZDAuZ8=
+      - offset: 627
+        length: 74
+        placeholder_text: /* write the 'end' event handler (must call end() on the writableStream
+          */
+        initial_state:
+          length: 74
+          offset: 627
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: krgY+BhfmDXHvLHNqXawnngv7K7w6IjVVP5oY0cd0E0thqKmiQFtzt6z+IYwa8ZRieXbZxXOcYVeFw/b8EJY5ftmRMLHqmGs9KJdM0rDb2k=
+    encrypted_text: F5CjDtE2Otx28f6NQ8wWiwP6kaRDCBRNYrTQTmc7pHKMXc0gvmZp1hogf0IccMLYSQ3QxjAg0eNBKyxnhwu4wyS7V/uoKpB6YKzMB/vA21tK58mPU1mWgk2cALbI9rNtBcGjJ0Nr8C+xPcqDiHxEDAhcKfA/3XarKn+jtK27eu4JxZdhWEgNYFS2xZ8rDSWoxcQ/lI6ErN3GpJs8glXygSFMS0QmN01HZJ96DHJA+NjvRm+WUe3SgWsQEie2LzwOd55Yfd5R6cjd1IMYFf/s3GTVnPFb9Giv9aUOAFbBj7w6Os64D9Dk2eWVp3P9PM3JTgd3fLx97Mljx1n0ZMf/sQ5A2ZJmCS/13JWJZ3IYOnTYmt6ZvPvQZttIMqETQY7xawrC3q7yhd55O+VTYSrFUpaHbvSVZ4j8eghN2R0k0vEfFeKoeDYD5WkVkwUtORUZa9r08JkVw8lH+NaJ2Q3pXrQsdZoIvsKwAmgHqXF+YbLyH0i/b6Al/5MJdvqBCZU+ACtVvLNfxAJP/AbJFNxdAwUhGGiUgpapTgsPhejN+mFzH6H/Tb7o5SfQFl4+Nx3bJOWfFEdng5+jLej4kKfK6E0eY+4imYEtTGZq1CHIU+1ZBhs37wllHGKBM7f3fgyitd4K3c6DgYtyO8uWABEXLjBcOcyYXdfMT13fnKQlihcqEmFHcHQsr0p53Kw90KhR+puTcAMN/kYiHTkdLLSiWnXD6T7zdNNaIvyO+A/sBrGjY8D1dooqZcAEjfzbuaq2C4OeYktS0T7pT4usONb3rRBKW54p3IWNe0Pidc6F3dB/cnuLu7ayGHjvAdLyRXv26ItgKb7pyocU4TE65SL5k9vSZoCFvyhv1GFZiJp4eN9ire1+B94X6vmPC3eYQrMTAFOjD/vkAxAAYeDVICnU3UXr+s8N4kWZHoXB307O7ZzPXg6tkE+YlkklaWdHVI3jxEuFS+QcsGUXDbYkLK4Z0yHtozbgWktNFeAeMK40PcZQfW/ZqLbCKFvBWFsW5+HqpFCwpYdQT89fSMruPCE1qw==
+    learner_created: false
+  - name: data.txt
+    visible: true
+    encrypted_text: 99B9Z5Di+SQtu3jazcB/srR/1rXvufI5+yk3SDxxvRuLzSVA8wB8c70COGN51XNmJiauQISuO5V90I592fqGd1hUqba1Zp61dQpRct6t0Wj1WVcZttBy43kcDGFLQKxq
+    learner_created: false
+  - name: example.js
+    visible: true
+    encrypted_text: eTwP4kS2yX0ynHR4053r6C1dHUQqmj/i3+JN0xerUPfCPXx9em+LOJw9WwD/W81iyPeDyuys/J7Qr/T4QPGpbFvHIAeeCRgr6OZPWQXu49Fq4tjD4qS/R4HMPKPq+0vxHZIJ2oNHsyXdud9F3QW77hKm1Vp+o58Fcpz9qZ6zxdiWaM/eMeAXuhIi0InalnDfUdts9Zso1jCsQdQUM+/OazXoSsk7ODY0tIMRhurxGcML3WCLJRNsMwHLBfVZIXofywuBjKxMfT9aoI7SJlqIbaR8ZJmnTMnOyNlYWP6K17m2NWsFcsv3XJskK4OY9W8ft2Ni4Db/iR15yKiPOMVZMNa+NsXhLmB9nvSH7Q+oLltW3hl4wRTOt+hAdeAwA3VFyshVY8ctiUdUp49uwKQq1PGEDOFNLi1I8lowVJbUdrqo8pnl6plbh0PsF8SjHSwgOyX1q+Y7ioZZonyDAmdBUy8yz1/mrfF95bqMy9T9/kQysGzC40pMIQcFL9KSZegmdNtIscgY7QhnoHgEnqK3bNcTmkA4HByPVrjI+fw0TiW4XMyOM432GrbUnvybhgT/
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/WwtSb7F0lL/0rJx8Yk8zhaRRZz45oLW0XD16+UsPu3Z7fb80H1vc/Zui7lonFW4Wox0IJgN1EfpN81tn5Ve+0OYXT81uzSN5E7iEKBk6tHoCZwstPHKnzhmd7DnBcrruv8mhg/d/FDC8y9GW0Zmtmy1vBcauIKdm7UDnSEjIyCltSfVbmEpM8oB6UYEbowkDOftzNQUlUzfW0ZyOPv7/2nrbEbW1eC1bAfXlyZpgx0/F6Tuw5rYCbU5Vb391Aq0L0OCzaW9Co4BQnyrgzQPMTVWfHmEtOcuZqoJQx8McYHiwQQHYm02tEiMk8LrFnilFu4YGliII+rBmJk4YysI3cNnIuxBywdBcJ7mgBcFpfzUzQbqCS0Af+ZgHl4CiYibWqifs/b3d9oNlsvVlawTB5sj+0fgFx2EMar1yPS4DaBmySU9kusFzxyIkbKHQLoI6LcRocStVwwTFCZS3XuAubS5137P3FwoEWz0geAcuiNYJBN3k7kBqkDeDKMUITZhvgt+1kvJLhtb7rqCylIfHvms+S3B5on7hcTCtPP/tB74Wl/Lyb2rP5WLKcJOpACDYjQ4hIeqnLcb/2e3/65sezq027406cRzbASckjk9hOr4J0yNG4iv39zycUoVJ0He1Fw2vd5Cyo5W935IKEmFCQZBg/D0EkAKDTTRzOJl5uyZOf3k5I8n2Eye72S31kAKgM1YES+KotcHC143bQqwkoBniCicFnAcSOFZRfK6/UvMeCqUgPxKfvhFpYjwKYmL9plddc/KJNCKTni1sAW8GQ3jmCUzGKqpk8VUphZnBOvKCervKdzuV2+i/GydrgbM0ilcc9jCnBj1clMBH8gEnIe8cyFF98OYEg1I08YPJwYp57bdHQ/PnBMnboozapAkJJg5J2uYBFoI6UygMJMM3yM4/Fb9XimeM1Zgsjl31eBxWMxULQrfXjTeQYGJM17JSEnh7AFd5xuj9NbYOqZeP6ZyZ93GG3vMP4OhrKr/gHvtMzAI6cFPBJW1ld7UQYar52BNddmsiXpip1oicpeWKZX+hRDYsZqkJBylQA4M5P4cAkYzDs5S1K5nbGRy5aQDQ2Jp/jDlb/Gi1nAV8rFhk4=
+    learner_created: false
+status: Unchecked
+record: -1

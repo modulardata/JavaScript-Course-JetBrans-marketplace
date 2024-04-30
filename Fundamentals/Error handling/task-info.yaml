@@ -1,0 +1,19 @@
+type: theory
+files:
+  - name: task.js
+    visible: true
+    encrypted_text: eTwP4kS2yX0ynHR4053r6C1dHUQqmj/i3+JN0xerUPcaaiRAYHG2zx8RADO2a9DkCz3sKGJZlxeF6XwU4YFMwbdozq6s65mIb03sbKVb2U5DVsHkk3L+0AHl1ep/JrooJnytRSTTcW2A4JfQxLhI1GvN1PjgTrj2r8SEc9x9Le6YNWNL68rp76OXJ0H/w60PBdoo5trxQs1ZrD36qkGc82c13UWTZPYRu+EfiwliLeVDWI6XPkCNwrfq68iT5zbafADemwNt1EArJTtHyRrCAw==
+    learner_created: false
+  - name: input.txt
+    visible: true
+    encrypted_text: 99B9Z5Di+SQtu3jazcB/sjcBHh+g1kA8JrZ15XXGkoQEPCjE3bDKje84HWyIk2tLjkT5tD4M+IG2pzbdOxxFi/XzFXrIRnR1JvbP7JXTWtMM6LEblhLrdNI6wW6Smx/i
+    learner_created: false
+  - name: index.html
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  time: "Thu, 25 Jan 2024 07:42:43 UTC"
+record: -1
+post_submission_on_open: true

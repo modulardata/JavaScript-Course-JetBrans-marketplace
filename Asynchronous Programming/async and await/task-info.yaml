@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 174
+        length: 100
+        placeholder_text: /* Add the definition of the doSomething async function using
+          await when calling doSomethingAsync */
+        initial_state:
+          length: 100
+          offset: 174
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: NjcG2HmmvgfK/am67+XsT4Pvkr2HwM3bvIIFsnRzKUXFKy2tPga9cXmWZPhvOhcS/JySzXi8muAjfGueEHMJWQ==
+    encrypted_text: eTwP4kS2yX0ynHR4053r6M3UK8OCW2rjcD9R8Amp5nQ0tJath6/g48nZA9JyXMTjpHU/CQOnMzY4CMcgrjB26DMY3qwFsr8Ni2BAvbcngl+/KTqL04v9qoXIplSqnijTF7A2uZxYHgZtHj27gMJKbAuwahXwbYqpRFFtHL6fRJBD3ig1WeayPC7qRykZhd/Epx/WqdZ3o1W4SCt47vHYw8JWJu3yP9YlcheHL80Jall+VwNB+fmJUqRASQKbG1Qz1e7Snn22hIvKGJ+KU8jsZ1tibmC9f26KI09e8MpqsNMKE2NXRT5WO1j+kmw/4H6UDQKS9Mq3Q07F/AxtqRqsjzyvsbF+/EAYLgWm8XRqQRgaNKQJg9Ev+qk4h5T0KBUYC2gBiUoqZG9+bZtJOZQCByGeG7C3GWRTzz188rgdZCAPtLmlz5XcMEcwrnNwtcFh7r3MQrYjQrPMap3S6zwSMA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

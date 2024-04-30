@@ -1,0 +1,36 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    encrypted_text: 9n8fp/+HhfEurz/JyvPTWCGCMb0UbVCCC2MKz7/4TdbOMCkZg+6NYkgiRHR/Z0Vl38QtxL1DXqywA9o7vqPJCnV4HhPAja8UZp7sZENSiv0=
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: jZSy2yWPUfOSaTjuIofsrt41HuLFDKq3tf5uIOgU50MuFQwwF+95u4NYwZ8MeDo1KyiYgFMvms3x+5R4HRT7eqQ9AWW4SrNDTsiugrqZleQEv52TIgZYFEe+CPeHJyrVAuFbpbQDB9ecSi6p/rYFspYbiCHEwX66P2nbHV5DSz5WQkyPv32MHC7MRvwf5AZ0SJlkhfjqex6wiUZVRtjl5CDHAynPw6vRl+6oRBaKHYiSKjq7Q7EIgotVDQJbg82NeMFBgukq+uvdVgT1W79Nk8VbhIpMxvV+Ar6y+ntVArA4OUTF+IQtrBcMU74YbPmB5BT4mi6Gk5eTwEYTpOoXgS0hQooB0mB9li88ArcZMNa43CVSFMvJMYkgLkeTPVvIf74/F/3RCpc4BJba0OsRK+hZqs6tmMxYpQ6DhkZQybo6yi1BtIg4LsIYMBAn/zoDFr0MnnLZ+vRQUZBHCru3OQq1jnU8pzS9TGiKDa8EwiJ48iVmoaP1MoTi+vuSECaT
+    learner_created: false
+  - name: question.json
+    visible: true
+    placeholders:
+      - offset: 2
+        length: 261
+        placeholder_text: |-
+          "question": 180111,
+            "title": "What does \'E pluribus unum\' mean?",
+            "date": 2007 / 01 / 10 19: 48: 38,
+            "body": "I am not sure what the meaning of this voto is. I know that it appears on the US Great Seal...",
+            "from": "112221",
+            "username": "joe.dalton",
+        initial_state:
+          length: 262
+          offset: 2
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: ni6XlGQ0/xWoXFcHfx/Y5oQ1xv6k8rzs6OAK8sNfMWix/mEsHnus8nDpAHyNDz0suzetV20FkFOxc2HyraPL3gvspLCzMac9E4QJkOw84Tyfm01PWsf2S0lRXNUTnM1LMfWermxC7cMI8YJIQm0Kb+Lg+DBKUmpu9AxunRypQQe+EuBfjGMWyc7dSzPAAHSPE9l+eiF28jDDaHaVDs13bUWW+StCJnl2ZT7DorS54mJpdwkxFGIE4eXCJH2uUVu5swo0Ee0A2xv8qdw4lVPhs++kQgljeO4CVxNrk0FCf07FzjvqFa3JchyVpHfd1+clC+syLX6NxWfagJHCtqgmh5JpHPJdC6jt8zn9hqw9FdU=
+    encrypted_text: RRD5ypSw8iVD+HTUhb12a389ywR/IwLUuf3+Os2rv1xVW99j667CrWmJoq7OPZRU0eoEWO5+2h12nyjZCwbE703Ca1p6yp9gnx+nSq6FwSpa3z1wOtFgkygIENtNRtWrQ/uLNnu6+0wN9odzjgYLW8QQUR63kgb2dmox0reUfVwzLK38q+R2nRpRqOrMV4UuQ4ml9ILoGykJJ0WKLTydzc6Nyyc1G0flq4KiW4QlAvsHRXzPOg2Q+CK1+99DAXPCGfbAbeTMvNIvlqNEns5KBEz6VxsOUdQLzPoxWR/foPOog5wDJ+FcSKTswlc9e5dmePLsXS2TBNn24zKgHfX31W7HgwZ4iTNuG/Y7USyxneM=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 25 Jan 2024 07:46:59 UTC"
+record: -1

@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 120
+        length: 50
+        placeholder_text: /* Add your code here for proper error handling */
+        initial_state:
+          length: 50
+          offset: 120
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: CljLE36fH30CPJvyVvAz2hh9hCVP6HBR9caSQk/sW/755TZ4SzunMrW/bttHaVt1VeRSTRJmGwwqnRwvlEJSimqwN5gwLKMYK01fguG3sv9c+2tcR3YzvfFU8DFVTk4glOwzXkEgTBcR1/t8kBn01jBqvYX6iGet8Dv2zG4ZYeG5mTwy4xQbK6fwEEW4HsrS2pWpTVN0yxyy/xeyFagxjRUh6lkbv3vOkN6KA7I+tnxbDipTLC/BxeTgcyUBdFSCssToT4ArZ5JHHG3ToTS5dQ==
+    encrypted_text: mUYtF+erGMn6VqqmruRNr6nq6ignZpKFDKZ5u1xZtzK6JBRfUjAQ37CbupHVpjNI23LOml1Co5WCBNP4V2RcH8y6Qa7RCT9ZwGVGBlaQ4JZaU4nmae5Tezi1Vb507pjUiOCbXmTnpxD1UnQdgfgslLdCfH4O4YlZEjICL1pMxFT9q6ZlvoOFg3MFsqCbThSMn2XdBuBidMgzDO4e4Jv36ZtG0hBF4vBhA0jrqN0C036ZvdUM0ttrF9xe1VnIgzMIwYPpm0PP1KFsLtXU2kLJdJEotQ9lymNgpD/fFq2paCQ=
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sdso5Xxl2KKuHMIitHXflI1J/JO5AM9Au7Hgl4MbGbW2ZcNQTmLF8rlyzs75Rjo9HB2TS4ekGDDqtzkbMF59WXT7ycCwtUtEIcO2fMHgQtQkbCgExAGSDnUPmfj+v2pm6u5tJq/F/JEG2pmxZLQoEjWKezL2XmflQbiR2oF+7uw9rE6NilyUeBlg/aIJm5PSMQo3hqQaa4Y/L2LtRvr+WxWiQ87zahq2ikdKB57XHJlhRTdN2IIjIuEQ+Hq7EY6g+ahtq6E1g9F5uaX4zFTaPgrsHoyiugafhrZawzQrTUlWQNuITcKj1m/wpgiLZ2jeIjSLmgdfIhKn4wIAcEnEwZpwf4ua9xIEHWihZR3XQ0WPrz5GT+oqR+lKOgcXw/sVJaBLlWUnM0F/ICn93K/yMIyyMVBv3C1rsB14OqaYrltof2Kn4yC024FJdiZkJDtcaZ2PbT+6qt0uI/5gPKmghON2QytY+w8VwT/nYWBPOCueLPVCVTF3h4Jtl0SH5bBBDiqsCyXSjj2U5dUPQqLdO85+56NR8poxnC2lsPtsVGDaLLs9yt09XUNfj7zpFqu6oRr+40k/9wx7U8J3tYNUJglufcVAekz7Zhrgys+9tFZq+L+tmt5Ad1FvvLE9ypKqzR/JYTfJZ4lBhCZ/EyVzmjDkx/k9H50Wni2NClZa9fnk4zIv8k4sBtCpps9PruBh3LfcZprVW7YFJBN+vlaK65k/Oc7ZVirqxMYiu20APUddkOhA6ze2OpuctF1DfZyqeh1LLFLlp3ePaitXPPxS2F5DWVBD8QYP5u1WkOqU3aSA=
+    learner_created: false
+status: Unchecked
+record: -1

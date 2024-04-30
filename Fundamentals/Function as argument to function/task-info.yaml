@@ -1,0 +1,36 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 232
+        length: 102
+        placeholder_text: /* Add the function body */
+        initial_state:
+          length: 27
+          offset: 232
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: UGuE/GQtK/tcRQgklIdoPSQjo3Msxekuns6DmN0xURbbmqVrWfBwsFs5X5uQpShKxrjSRRZoQo8FC5GsWK7uTw==
+      - offset: 422
+        length: 105
+        placeholder_text: /* Add the function body */
+        initial_state:
+          length: 27
+          offset: 295
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: UGuE/GQtK/tcRQgklIdoPWEu6+w9FLMn4LpGqGVfj25wwr631xsO2dzQ6LOEjrYqZC0738hgw6ESbVwKJXT0I+uoS7wT32YfDhaw6RCuwK0F3NdjKQmdMixWFOrcnw/b
+    encrypted_text: qTGKpjZPr0WIycdf//P8aUTufj6u1/dF0zZGepACs5y4m7dRmCf9u/qFllSUh1xpD3jk41Wh3TVF1BY5+N7jrXIMEgNHHOjxATZt8fF/lregCjQyLwd+DJ2QonBe1MBTeRE5U0ItMmMq7/lWm+7iFZJH1UCiKa4yvc+Vk6zcvV/6mKgnTIagZtTq5ifh2BMVUtrSAUOM7ie0tXH2qb47Vtjc/ANM1Z3UB2cxMid50scpmnv+7Q2/ogtTALdkO338c7q70XtoE4EaAvEgDfvpM8eH/l1KAbwQaN01w3hglKN7GehOvqpvLrC2NuUFTjd/1kuVNqfuT399QSSAz/v+J29r+HpNeyvTqJy82ScrrOHQGlXr3McNE3OcqDS2jj6w/ZvzOg4OyCU8PskbEegfVE+SIEKgn4K13ZhDqD2AZj35uohebA6s4y+60a1uBpCf
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QUDDu3SeCVZ52EoiXPKBxEVz+LVy6qhp8RZgS0ko569RjHLYNEkdb/VFpQKfbHJxGbXmYwvAs2wj/fRuQps8B7tC0fMykpXbywUQeyLEjKv7uA2aaTSnfj4sP7DWWHkb3BOeD+BR+0QfvNDTkPMg53WzZpcYfyXjhq3VeYszcOKK2XoJfI77xZLSndPY8LGxgcPay/9mAtpih4uZ1QW+vI+Oc8eZm3K//HHZnaIbixY5fsbVea6Hf6MH/svOz9/Wu6sSYRRiC91ZlHqURdmwitoI1qAQThSvRuFYDf+CavzC5nUWQdeFvjpIapGN3SVmSHH3l6EtAyKWS3uKSs6W2eqc3G3Xq9LijUdAa6M4pSj6q/OxpS7oSKUklxjlijP7skdUQOr8+Lv1xbBN8XCk/qWxqdwSAtM8UdCSJmLargZfCMh4RQzhJqqTJOGP5HdZgZTDvhqphzrITQTdEYYI4DRIVHupW790WavSceWmqvCJ
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 23 Jan 2024 14:43:59 UTC"
+record: -1

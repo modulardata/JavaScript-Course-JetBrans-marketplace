@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 57
+        placeholder_text: /* Implement the executor with the documented behavior */
+        initial_state:
+          length: 57
+          offset: 76
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: RDhY5TU+BpeQW8senpRKKtUONwfV5i0rrSYKa+Bow7cgQJTZYje1PkHoUy+W7kwVrAcuG99LgGQK0SpSz+jEk29n/OYVaWh2cGj/oAB9FSOIdpY5t4fJJ3Lye1eq+Vj/XKBSsRC4rdzB/PrHG14BhHBsdBfT4NIBOTrZbTOzrE2cqAzC0ltiROfU+Rkhg8iyJRcW6hTV3h3F0g1ZK1Yq9v0yW/MDAj7xEBaIfVX243k/yTnDOJIft1+2wk2dYM/HNntI+ImDhEyGCjCun3lvsdF/aaJRyPPPCOxOVPlvZdt8AgzRDbZKEvAq7wJa//v63EDAbEkiDx8ltRn6V3AA5w==
+    encrypted_text: mY7b2oZVj+tXa+nkmPLlX3B8JFI+mIlvwdR9vmF4oWZ0rKnKU2NOcUWZexL5Czu+bokJI4WoOdNmj++FdrScnbu+3qh2NDqtuoZQXveyfXk0U0ByaJAJ7PiwN2YHLV2lu2aw281t9xjW7T/Maa8BBrDBxYdapimsy+2VNc2abrB9nxGAE6lfzrKzWrNMa++uXXvZ0dikJBA9ey6uXcxLBcjmdDjQrmacYzGZpx/jxs4TB0UYtCoCwCiACT+6ohwDNfXN6kgAVl8XNKPj21nPsg==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QXguIsWGX3eJoiBEKoJp6i4abblndltDa6d7caXkv6L+plXz4KxtwcS0UpuiLq++nnaXoUg0ACdVmPM0Y5j4JH2CE28MN8930yZaiumq6IqIN614J7r8gPE2g4qcwPf+wymHdY+0WPoNiBVgeCzPwQCFJ7Wk49hgcLZE3N56oy1wQNd9nvg5HxNTHUD1NMwcrI+UtVjmzkqdFN+iHNNJ+rf2z7/echJmLtYzrwUFqujCkpA9G7YVdvcbaO8Zz8XBJ5h59PDd6dCcadRZ9Qwsvv3DzPiVlBvjnopNTfiCW6LQprwx9Du8d/4nQX8BZgTHzeSwv6fu4PsodYqsyYeyWuGrDiqxHZHQm0ruAFfFNayDJhSMlHXM7L3HsQAUmjlN4iyOEgrUMsj5Baa/gqyZrpT4VrUz8N5+zAEIhKfE+/UZc6FMk3DwaQUaFDz5+ZvWD1G8kdMszBNmeE0zhFVsyed2g+N4g2Ej0g0wrJlw7npv8IxYx8slf9r5OrYNa/DTovj0kMIbi/+cAsjzFY+v1DYKvrW2omzwFsepvKTltADlGa4kcxErLwzJBZX8bA5SJG1nXDEBZpsWmio+lmkhncKh6svom9Za3bW82m/1QaQFoGEQ4wWX4y2a/QDHRg6vocCs3U8vSg0M/FYW/owo1qLpljqEvMxZP4QzXop0X5VDoHYe+klfT3t1xYbc6+ItkN/gmfzJqPT1v8tS+mwErHG7+jKNxKC+qe/8TNPRVo/29ev43zBTQYcLgKSWtSG1i7ehbCkZZVJCYdPewMFq/pnRMT6NLU8AaDIF1IcK2R3R3hKcFyRPxLcctrYeTqxpWp90zu3t22Ydk3VvUfb9s3o=
+    learner_created: false
+status: Unchecked
+record: -1

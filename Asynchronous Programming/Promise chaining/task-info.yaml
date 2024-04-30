@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 714
+        length: 102
+        placeholder_text: |-
+          /* Add promise chaining calls (2 x then + 1 x catch) for reading
+                the content of the two files */
+        initial_state:
+          length: 102
+          offset: 714
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: WVYNzL3fdXi2ZZ5hIJSto2NxoT/DRO2Ycq3hGHgSooH/q8DPBPvXT0PFg8dbi7+T/sUaSdpLBjjyNoYMyQH+ovApEYWWKq+woImbwCdIbXduqwBC9dMPntRHi7gmtSkDLk0DLETAYHvRyPdR+TpprHnGs5N7WhDqSV4OsNK8InOoAQOD6H+NLA/LA3usYBlh3NMaK83dMe8ffXBkce4VCqB5w2qwZ01ozDKxeVhF7We+4MKAtdAuZoED9xSwYyc24T4e/i5wemBoPgwFxWyYgH6jjFeR6gdOytSHH1bembE=
+    encrypted_text: F5CjDtE2Otx28f6NQ8wWiwP6kaRDCBRNYrTQTmc7pHKMXc0gvmZp1hogf0IccMLYSQ3QxjAg0eNBKyxnhwu4wyS7V/uoKpB6YKzMB/vA21vh3IhfURsIUj/BzhZPOBWkRg2Mw7AE/oyi4Fka2cZPxA6MCTGNDlwIvVuEtE/I6L6IruQGMpf6b7Dk+LgpJ09Vxo9FYBfPf5ARSv+GQjgQEpNbAqGsDg9Pu3LTNJeSwSXDCdXOpO0AV6wU96IrrV4A2RhqR4/BkzSbMpT6bPL27Kq1SYZHgYEh1oXhqezAVajiH4sXZHQ1ESTpqm48yBzogYG6XnwXbhS0Le+jrX7E5I2qROzRTUMX3CgusgTnowQS/bvLHQPqUf6yQYRH2pd7r5+6A+KF30ru+wW7bUGfSlHtrPjqZZSyLlcAPby72ejoYoC+P3QVNnRyprEIzWJO8WENfvWLD/bfhw0rjXRUxGLq6hEstlsHzQrXaU2NtdI0MBlvXrHfAMYHLSpDCQT8eoRWdj5Ep/4NRYogcv3/BTg5KaQwmm1srodJONeQI6kshSKZemXYsBg8XIjN7fsR3a7WlJae6wO7cvcvoR8RBx5MANV9sm5GYyUqdogcn56FSlkFjtGxFQMuVw29MAaezAJv7/fxCwGyEJQ1POFramncHqbNV5nKRFHVPW/x2lgdq1IOV7Uyx9ThACB3FlzfbWWg2D+X3mkuIlakL7BsxlBIz7SsHcaPv1fVTVWVPABOzpQ4U/0gKsX+itDyEkncrYdrzLvUJZNI2usK3PRAfJfybBb0W0NPpNREKx0wf4B/3KASM5jM20IrPwmNSv8x6qW5GDLb6BEwTuMARRl7H6/YKg+Dxz6N/nT/9UXf3VBu0dXLmQpP2hMiOji3ohoOGbaixaqXR4ol/EolqZWesIPuwKIMi6Gme7sazXORAdnQLRTP9qamRiBgfbpkKcV9Ccn2SpKWsVx2BK1LSfBvJ0qssYJurWwt3VcISC4tmDRxtJj4s3RF+40yhTPvdzN5aGz9YIwSLXjMzO6jmOVkIJhO051WN/QCEUgoFVwRBd2Lq/mirJu7DtXFCgtez6TPsEytV5+gcDjZA3YbvVfBmQ==
+    learner_created: false
+  - name: test/input1.txt
+    visible: true
+    encrypted_text: lbwgN+Bp2TwO0z7y3pVtow==
+    learner_created: false
+  - name: test/input2.txt
+    visible: true
+    encrypted_text: PoDrRuLMFQZBptbCQBOnnQ==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sdso5Xxl2KKuHMIitHXflI1J/JO5AM9Au7Hgl4MbGbW2ZcNQTmLF8rlyzs75Rjo9HB2TS4ekGDDqtzkbMF59WXT7ycCwtUtEIcO2fMHgQtQkbCgExAGSDnUPmfj+v2pm6u5tJq/F/JEG2pmxZLQoEjWKezL2XmflQbiR2oF+7uw9rE6NilyUeBlg/aIJm5PSMQo3hqQaa4Y/L2LtRvr+WxWHaqGYH9s2fqQQcvBeCYlX+fuMX4CSbgiLkFgt4aZb9E71xE5M/Q4T2wtJyC+6ONCfcrJXLnUVlx5eucvoTDzZqKPLooPWxWu4yhCE/BC9HwS7SkhMi+qXKoe9AG9/Covlj3lnAmZ7MoYg+nO459TvdCRWeViUgd+dli/J0UiR+dmtbiME5RxSANz/a54E/sK295sCTsLYh+nZwRp4LBqJsJOT1gEKbA+lr7R47Qzk5HNgptLVFgCYxxI9BLHj+tGcNiDOezz1CzYvw/DHHv4CR9GcbxK/zzT5qjikDXt7eDwflVN+RLC0CmkTPacFbbo2WFO7hVsh8D/BP6+WB3TFI1cu2F70dftRTNClYJ/fkCiRgycsn0J/alFepwwO1+ZIAMCwyt2Gy7W1Hdl6SZJ8HuDwCP3m4RURq8w6g5Ygmy8ggDeYNSlOr6HHGjxi4THVF51sHx+fNlh9FHnizKHsQm7f0YWwZ6lu6EV7iDTkYgPowJo+yJS/W/QkfGCTvF5vqovmjEngIVSEUZMyuni6BCI6nddcZPMgwn37BzmPrZmNXGDzwF+6hO71Oi03vjV21iKmvq1PIoinnzXiKCa265U3u4b77zvLMq8G912t8XdLrcVrbCltRP6K4J6JIzHSIdfCeV6iXErPnElYIKgNv75/155RfcAGBusQ65XC2Rk9H+Rp2Y/uaIgzyZIjjulpqvF5LDGtDkOdfecsXOHeceWndDSLFyAA2w0BcLXcj
+    learner_created: false
+status: Unchecked
+record: -1

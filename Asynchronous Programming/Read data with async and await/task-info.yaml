@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 280
+        length: 117
+        placeholder_text: /* Implement promise chaining as documented. In the last then
+          statement you must return a Promise that is resolved */
+        initial_state:
+          length: 117
+          offset: 280
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Z11KR9r5bSSSXJ9ueKCaym8vZ6S2A+P9ldA1r3eHr1t08kLcXSCtVOrpz8DhHo49MRKI4aWyPyYrkismaHgV8D3tZ96lJt3XdMgkovFg6CfXJDi4US9Bur4LuKIwp3qh/LqDsC+wJr5IIecs8f2VNGBRL6NlTIv6cdtBKAdh2YKU6JkRYPc5N3cFM8uNx5yW5dGcPG+YB86Na0gpFZy8ilv2PFiMx9P4BKkAvki8xdQ02RWtoVychj3ARUfyeSNCanoOG8nIxMaiTdWolZf/KVT0mQ2gI82v8NA/TtNfg+AMOvcoJQZUO9DGBGs/aKtM1RkPyk0W7VPzJqVB/J8mBRjKxC08MS3T8j5YpuxrMi5BwWo6OKkZG6lDVrTfVglSYdvjZU9J4bht0e5CBRtDVZKkqsEN9qp78WGG1ROnWsHaAi7jZFbaoH/j8O/oagPxNM8UjzFg80+KW36R2A2Lxg==
+      - offset: 586
+        length: 51
+        placeholder_text: /* Implement the same behavior using async/await */
+        initial_state:
+          length: 51
+          offset: 586
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: wI65NJXLuJBwJbcR/Xk/czi/GTrJ0k1EgbK0uXzuJMegZkafEHp2NwnjcFM7/olVgJX4AqWmw22GMd82cD4cZ6u9MZyGcdh93FpDSM+ZlLyRIWFm410lkPHgYKk6j3bHpRu0jyXfIU4ZQuaQM+GTrJ59BiPh0fW9Jsv+jaVyJ7V1ukKCYcG3N5eax5/tQMWZNzP53C/88B9h6Ns1S/8TyWSoI6A3AkJ5TLLMs0yUlnMKAoADMMb8kKPldw3YGhPs92ZV+6HJqZR3WnLifILhyjBdJXRt1YfRxg5xYi/FsEu25boZF/cMh6JySW1nUQi29KC+u1BHD8hueLA8aveqIxTfIVtINz7W5ecYN+7MT2eL0bJIm6bTYaPBngNTwEvp0kX/2bmSd5eNxSaeczg9KsHXa5EJjmUHHwi4/tk7uyVjkZEIsp64TfF+bwn2yewFec+broDAQYwtR11UgEqdCok1BoZFBerB7mYUMDhB2Gg=
+    encrypted_text: F5CjDtE2Otx28f6NQ8wWiwP6kaRDCBRNYrTQTmc7pHKMXc0gvmZp1hogf0IccMLYSQ3QxjAg0eNBKyxnhwu4wyS7V/uoKpB6YKzMB/vA21vh3IhfURsIUj/BzhZPOBWkQpqG4uS/u7OPu5S9XxyS1vPfjFbzQtxhbMBdI2A9mflXh8Q62IigMIKBYQnqsVUiMkD39i65CzCE0f+vtZdNpHze2fAJytxkpgBK7pl63BCavBx0dWGibhzzBOUtypgMj8trW8nn3PnfqJQYorq2MeApys756SeS2MJNAlZNEgpAz3CuGztRAxvSmIDp3FA3GMDKYaTh64mCyHg2MjZc/LRqVNaxSE+C5mkZuFS2RYfpqtJPdBLjh9eo1sY58TphNtKMl+C6T7p2S9CJtPiTxFGDfAFe/i1WZjw27fPUxV3/nGMu/hx8q26PBxwxYmP/9bGQxxHpYBv+rMbflsLKiFwZyZeozdHilL5Zy57EiMYVs+GPAWUCb7yL+OFtbf0kJ+Vt9JCshXPHUWYfSOAAC8AbDM1GIsRpJd+j5893XpIo3+CanLrSVokMk4MYhVsarDXgjsLcZ7gon341NNMtrod3INY7WiYUy29F1fEW4uYjPh1Q8/I1HtFiYWoQu0d95twQXzwGFqQh5NWG3hYVw6CpPTdxb9V743IH+2GDqk0O+0+kF/W+rQuMDf/Bo/rr9bt1a0XwTZQI5olfckiTREq6KL8jSV5G+L4LaVJPWPh/LLMDCbTRyHtT/QVt0OTIJHqkaFEdeMebklu2fdToQDxAzOViHLB3yKYKGDzXhG4XygsLxN2CBrYMLK85kM1eLffl/BUVlx7hC8fN4FO0HyY7jaa02+/NSm9NGPjT5D8=
+    learner_created: false
+  - name: users.json
+    visible: true
+    encrypted_text: J0vJvLN4ODNfOb0ePCRQbcsAap2L2a5PNWLb2uhYBSzBbcJled5oh7J+qw36UOs/PjcFWS0tj1A7DIpO/0VKlJPzRjMK0JQZeyZzUxB2qnlVhQu5AMJibA6yhIKMnEsdDZ3RBxX/StIVNT+dbK4JhlpdXjmg1gZYXLslsC3+dJiLhkYkPdNQLG3YpVsjNvNR
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sdso5Xxl2KKuHMIitHXflI1J/JO5AM9Au7Hgl4MbGbW2ZcNQTmLF8rlyzs75Rjo9HB2TS4ekGDDqtzkbMF59WXT7ycCwtUtEIcO2fMHgQtQkbCgExAGSDnUPmfj+v2pm6u5tJq/F/JEG2pmxZLQoEjWKezL2XmflQbiR2oF+7uw9rE6NilyUeBlg/aIJm5PSMQo3hqQaa4Y/L2LtRvr+WxSmEZ2rXurea1mAoWYUsIvCx3MDJpbavnNVp4eIANCm+e2RqA1wRWUlWXwTJQ+8s7OfDsRNlbqRGTYuWhAcc9hRX4x3JTfKVJ9OcWHyGlEZmiGrDFgruUcxKzmdmX9+ro0mYA4lR+2Xwm3WmLEWadW+1wB7K02/eJqCqf0qAdofCn25gPOjxpPq2EF0vwl1TyEauIM4KrvHwPj3DrOWD8Pp+j1F5LBaz1LfN7GkvROjt37EFQw8BLBG1mRmq1zuDHT3BUQwe0rnrWxJd5WssOCsQ8xFUCAuewxZn5nrbFD4h+juD49LQNPmq1sfzfhoAxWnD23ezH516dCTtRHGfalqdkeWWK4xyrTJaDGZpBkA2uHTdXuMmCixJXn6QegySuQt7BmarQksFXAQaU0XOlvQBe0Z3zJ37oiTvtM2OVj0ZLdM6MLS4XkyrV57dqD37VYHm+xG/ILZgesAfiJ/XezwxmcUUAK/xM2xTtrP4G4Csf/2IPCubfp3pNt2jKtSgsy2sl5WJntF3sDVJnI/N4PQc1tDBZQKfdZiwLod5fqujZO81ynr0v2FFODZP5FBHV6brBtaNYr4/RdyMxgLzGX7GxhJexNgNYhqwb1B1HAB9WTTV1b/5Hxdv4JvTP3Isg5W/opP89iHPgfpfd9/4EESc/HthxnAITPEi1J+dHJKd
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 345
+        length: 56
+        placeholder_text: /* Write the function for matching times as specified */
+        initial_state:
+          length: 56
+          offset: 345
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SIlnksvrxUDqPhykt9aHi9n6bt9wQbV64nhwDbQvr9uStoNDMihbJHtpcOrhLNZMuLVn3PAdhiqyHrMUsKVS4XGKRFpQuFJfabYxtk8J3Wg=
+    encrypted_text: DG5AWcPEBBFh8Ml+HKqEUy86BvULaEoS/tKPqp8TETo4AyuUWlnuacxxTSSMnorer1u8zFTwhM9TSwJNx1bhxEfjiKf+QyZFwSFYwvXTBEK5OpCepfMmAGPjuyW2SEoWy87MIlk9lqxKq05+Z8D2LLtXq/7WlHESDU7gVOdrwy7Egw0+mfN7d+okEwfcBVD2ZlDtTsNXM36tRP3WlTyS8N4cGEAyskJ4k+ajZySsp4DQWV0g7k5ubKbh2n1XLwg0ZqSuSmNt4x/Gfzvxefh02nJFIMp6+bjkcUZjTuW+QWNy3CPUYla/0ACxXFCJPFlVsCoGnLg69WYeMulZ1I9oehLd61BF4fRNHDOJkXKWggkSjnFXHTNx47o8+J+4DCPylm1EF7SnkSDfoMF9s8tUWQP4pyCBbyoYW4KaW2PM7bYasugbkQDx4ZDdhXnE8Dcsrlxm5tsSayS0vc00VoFRB1ZOifvQuath1A3P6GJ9kFOan/rD/KhNzsVT4hW69AbBvaSgEqKmgbzwvmHJH95HP0USvEztMmRexje2m1ELHY4=
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QWzn4skKmmC2wI2P5NtM6ESQ5FofDdEZGerfAAFwNhSCP5QIbo36rJUdtZK86rkStWgCkQJSls80zfw0TGZuhuEp06yXaCgR4IriWCbm3il0JwKrkX+VlWPHMrtBYiKBda5ZFfhCfOnmLgQ26NnwXM+twnLH8QmS/lzyV38n17CmcYVwvLaMZJxI6bcSb/1E2S88wDGzn+Ggc2tB1BryZp3gy//526k0bAPf1tgVVIuwNnes4lUU9nZyju7l1t8+4asc4WnVsXXu220AeToVld+WQ/4BEyZeIoCjwlOHYAapsaqU6zb9Ax8pLsRNARunuJsfX6VEEinh3ulhE5+7EJqxB4WiDtPJYSWPyuGqgSBvXjJQKfPJN4HAd6GiuZt4eg==
+    learner_created: false
+status: Unchecked
+record: -1

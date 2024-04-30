@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 100
+        placeholder_text: /* Implement the makeMultiplier function */
+        initial_state:
+          length: 43
+          offset: 75
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: SDeNLLu+yAOe17H0yiQB0CQrNjAvR6J0psCefQAByhyhEZxEH64PiJDofYMGDk5dgEuYdlLbUvYoakyiI0lv7g==
+    encrypted_text: Z1n4BOFShpvkJkMnKMTM0Hp2L3eZCm0hzOy1AHkKtO3mMakojYPl1K9yvFQ0QMMFXdR5U6eWtCAIdpx1q+bNn4WD+xapN+HhBf6GZv4XbXf64185qTyEctQqqOLmDfkO+eovPIlSxblgVfbvCGDmXaQwdbZMeBzJN2GvDYbsoIpR2mubZBKvkIag79nzgZsiVx3mA2Ex+HmMR4gWHCdjN6PO0XMUw7o7ICaYlGlun14YHA76mJfln05bdPC0V+3HiMKJGxfUzVai2nynFRGAlVYQMNSw9UzHPzhNfNjSLFvXfx74ZOMWJasKjL6r4Sp9gxs4DW2mDchY+u9+iOZL6JHgyBHVNCDLYo++hP9lxcH6XK8t0zW54/OoQCs5+pF8
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QWzn4skKmmC2wI2P5NtM6ESQ5FofDdEZGerfAAFwNhSCP5QIbo36rJUdtZK86rkStd+LOWH9FBDlE8Foku2KZC+/6sUl95H3yS5ndO+Qmp4vEmNz6CUFwW+YqKt27Q7O4dcokPXprm5ESJlvfXyQlvnmGxFHGSrYPkKo0rA7Nr31h10rafg8a/RmvoqsDxD4/JuXNOucVndOk0TFTWB67qEQ5d07NRTHyhdCYDISzqDcnwPF3GePW5NX/4cEzK5A/jjgydkwKlVo6ajebYyVxnrvbIBW5XxvDvQUAHsiNoqZ3tHVvj1QnvI6wk6hz3+hmZJ85BsecUaYtokwxa2BEgJ/GKlYyAgiIUa4Gqm2dcKaip1GngGIEf/+Dah6xe09poC7CeHS/fef1oBb02Qpq8xK9sp5kulY1FzmWvlIQwzCigqjzLoP9D7ul0HKa6Xi4ravRaZlBw705PXds01foQL4laoi+/6KbkMda9Z7d0bGU/BDWpEyKFcJtHFUEuejCQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 25 Jan 2024 06:24:13 UTC"
+record: -1

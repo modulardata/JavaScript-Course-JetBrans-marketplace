@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 790
+        placeholder_text: /* Add the function body (it should not take more than 4 lines
+          */
+        initial_state:
+          length: 65
+          offset: 392
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 7qCzYtItjwZKYx2sVvMO6qwkY7FlUlr3nJ3o2DiIqQ8rUjCaCXO9vzTFLx0Ux0QWbFOuh8qMt4poOpjjy/7kDS7Yx66Jog9UDp0cnEo2wR6f8nxjRgFkFOoGYpVhoJVnwypbC5btQtVwdtBBr03zrx64PsAXljJ6PUc47OZlHoRAUHzKJWUXQHhdKT8GB2UvuJsbewtxL2sxyRASxVLKBeg82ue/Ug+ygAUJjIFhqFk=
+    encrypted_text: +S94hywRjT7+wI3OQV6DLo3pI+6JLl4jxgFfRq0Eepf5qyB7KY6dDJVzoYUEKECNETv6baJOD4bverQqa9ekXE5jLuUpDbtr8IT5ZkhEwiuSsDebsf9r9EYVK/ZLL2DT4Jrv+UeATyKV4WrpYBr6vR5/jj9SbeIk4AUPtU64yk1pCbueHyTPVmGZhykAz0uU9LONQZfbn127K/CmcenJqK88+7/2PvdTprZIlf+xHULGs2GYRekasGTw1PUSmExnZ987YVrxTMYJs9UJNpbZQyxi0S4BVGlU9R6U4JKoAScu1rWnhO/FaVSGonYbgf/g3k+GqO2RB5V6QMZnJoQh+DH2iHE++MkF4ATJTB/Vre02si8WeemEm6lQmx2trzw7IUAmIHMhr9LyPZSIJE6/6s0wUVPi0XNN1M27ls4PpyhMsThLPDCMm5srt3Ky//1GWduSo2XzemesXBsk3T65gaAEn7/4NnvuwGB1XDnHyEDb5hyMKc+Fml1WQqQwvPk7WmzypxbH5tH/mLaWrYA+K5liCxF1nDt0haVFIniauddqrecQk1+/dmKwlG/3z7abG6heN/x1vSCVGfebhqsU5ZpZnzF7mYwAAbA52Uov14g=
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QQ2jDYVJ0RsU+K+c8N4lDGO7iwd9IHli8nu0BwFLcsnb5XTbpn8Vj/3Q04b1fxLhyzb6zYi4f3rVRpgXLaEQytt9qmHyU00C720fNv7nnvV3EOt26f0p7LFhumYXuRKNHKuZ3A3czOipQtog8KPDvaNroi/WM9UOp0hKlBYoamNi2fzol2tU5ySqKnA0PV0uSwxjTi7Gb7txShJ3GKttMolOxJXLJRtuCkl6t1EhVgGVFII4MyTfYp2xpme5onV60VwFJ6nEWDOhvasVJHa8TWyKqwX4dHGGj3s28y+yH4RMpzm5O8CBThP77Aplobjj5IAhAE3wPIQB2/FXWB+XfWU=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 22 Jan 2024 08:45:42 UTC"
+record: -1

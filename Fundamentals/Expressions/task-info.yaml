@@ -1,0 +1,206 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 289
+        length: 0
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 202
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
+      - offset: 1077
+        length: 0
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 324
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+      - offset: 1077
+        length: 0
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 441
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+      - offset: 1077
+        length: 0
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 560
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: Qu7shsF+m/+OKkpPMAYcHQ==
+      - offset: 1077
+        length: 0
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 682
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: n/14/Rjb07m3Io2J2L2bQA==
+      - offset: 1077
+        length: 0
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 803
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: hbquGubkLAZDknknZE9Jfw==
+      - offset: 1145
+        length: 53
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 919
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+      - offset: 1293
+        length: 55
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1038
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: TApFM4pZr4W3x14ceqY0Bg==
+      - offset: 1445
+        length: 58
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1160
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 0N7vWGiJZ3AS86sHakOMlw==
+      - offset: 1601
+        length: 58
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1282
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: VG7fqEGkhk0y6eqTieB3fw==
+      - offset: 1752
+        length: 54
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1400
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 5LsmQiryY/EQFMPF9HQitw==
+      - offset: 1904
+        length: 59
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1523
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: i00eevpDCkgtdx3mqEhkJA==
+      - offset: 2061
+        length: 58
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1645
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: /VNIM9lPTardcA9xaJ54Qg==
+      - offset: 2218
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1761
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: O+LaGtnUN2iHx3riSrMFAQ==
+      - offset: 2359
+        length: 56
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1881
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: kARzkaXqk1BNZVKs1fiXhw==
+      - offset: 2508
+        length: 54
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1999
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: A3QGFZNAq8JIg7e+3CoBww==
+      - offset: 2656
+        length: 55
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2118
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: x89QuglckNQczDD7qbVrTw==
+      - offset: 2804
+        length: 54
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2236
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: LwNO7dOWeFErQQIIHUBk3g==
+      - offset: 2953
+        length: 58
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2356
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: OtDVKcT17IR/dNCCWWVjig==
+    encrypted_text: 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
+    learner_created: false
+  - name: test/test.js
+    visible: true
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QfLvjEQvDSaKh88XCk33JWqw54I7xswZf56q0mpnrq5MG1VPI5TfX7SypZcr8KI2mjaxOVGu6pAGZgXUedQO+Hxfk4m5z3yKS56AO/RYXJIDOHPF2rrlNHLaMvovkU2aIoslPhXik/AsW3zweb1NAAhDLeOnrQeeD2VOaUSnb/nc9Z6LOuW+4UBvAM8adRQVtNiRkMkpUekEERmZCghLZLrFKyhQcWUJGw8/WdcnKUXPrxmmZQjyQ/S5kyevoFAv4Q+gBH+WmW079b7uKFhjA9efIiaancFO/payjAhOl3FKafzCdsu26cC56+LrUZbZ3d4uIgGQABllwRo3hkp3DuWEt0bb+IWUkvomENlJUnitYoV8ZhOF85LdLfQCjX/bTwi6qQAjNcS7XP9K5NncgEFZDyiAWFa9Q4GU6BBWulFmNiOpJeFPM6Ji14zYF2lC0sxdsIWLG+OKlqgce1+uM2KdIpXCIOseyfjqJjDsnPcMVSvzlx4qScbFY+CPqu/3z+L841zNvHW9StvG46M1nXNtSxXrOJVZBc18BsBabjDGpoHmF8LVbHUlBsmlbKOZIWgglMqNKNgLY+Zz0e6y5URzHzDCf98OKQBlo42npa2ck6S4o8mo8fBCDjBqchBI9IQQBn6Es8jS3JaTWpb30BC/xArYgsvzILXSqFghvaDFTyuo8ifbD8+CkrnQvPMiTJC30uDpFjQh9bJeyC6dc73I374NWxtQ4EZ4wuKDoM1X0Fmack8beI5KvB1OQwOnFxKuPqDLuJWon/n6TrxsmPNwuXt+KMwYaU9kom8QZgAv5LaCuiKFGPo2Z6JtnUhauGUqBhokDz4s+l6H89FEbb8pJWT8gN1bG+Dj+FB8JNyFzGRFIdJix4UUtu4tPVKpYPMF7OAzisENOl/wsRiYu/bsxUvfHZRrJHg3xtpdRliK5ySbMFa1a0jXl86eFdvgB23+zAIABhwNrPAy/nrfhGJCNqT0fnXsPdLSFQLhzTz46vZXHNq56MeqjVt3E5XhdmNDmmAgevOYHVO45JCfombLZFzhnUd+m2dJkbevn26ct3328q0nc4qklUohmM7JArGZO8ggOrCBc7fSQ9U8GEtgObmqI3yUuTd7i4t8Yq8r0GFtFiDJhHU8i6YVCyVJBHUynxso2dHRVT4t9lgoaUR3or8IHh5aEibKMJHrTMNdo3XxYBZLklQL/go0qOAl41bY3q/PKwVX8owLO4ovr50=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 21 Jan 2024 17:24:36 UTC"
+record: -1

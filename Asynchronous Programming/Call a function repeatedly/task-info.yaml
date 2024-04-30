@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 160
+        length: 39
+        placeholder_text: /* Implement the call to setInterval */
+        initial_state:
+          length: 39
+          offset: 160
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 3UFrocZTcb8OFlAc5qfkl++YaHcMTtguvUUUJNcADUREt5HosufjL4OZIRxrl7o2
+      - offset: 251
+        length: 88
+        placeholder_text: /* return a function that allows to stop the repeated execution
+          (using clearInterval) */
+        initial_state:
+          length: 88
+          offset: 251
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6qK3WzAAxMnLdM0vaZrsFmiV3QYRvWzefdd54YyT7+r+2oBUnrC/mU2nUNt2raNBx/O+C3xpylvcKdIodmzcVw==
+    encrypted_text: zg7o5u+GisiXxzTNn0W/Fm7uSCEXtMjhyVOjkbTrMAFbvUfj5uHJObz+pA40GTXNuZ6v5Y5bF5OXPCD/VYX8+n0gRUBq5DIOekZ97pQgDvkm8ijYUzvskQ5RqA6Hq3VZUTc7gSrSlIAYM9ysX7CPfHhXJbBq1XBLqp8YC9TdhuzSvt2tIWiQfQYs1f8kF4kS7X9cy3GDO1oKSR4ZaoWkzlhD4F4PlUYJ2feF4a4Sh01hf7CDINybFoQVgE6CWmjMdQx94VY1dsFZ0LcGXwQSPkh/5Id1+DChDsncCQUtMQ1hny/YXvFC6u78VcViU3Pc6lVown1JUplYan1hVTCJzmVqTKrCUB/yCU7wgodJxZ7+cq5D3d3Rb6InNrYdee+OliZSXDQYCX4NeY95Q31MrHBbdzY1BKW62yapMiEgQaz/iWtwnDyCROn/C5P47C7Djn8u1UGtOsKth1ZfNhhns5zJpKUK4IwSwGeF3rHMq2CjdyM3yTOwT76jtySjz0zMWkXuDoIP5lUHWnqolmI5K+Juwkoa4Qt60Qcy18nUIZKN8ZCYLv3rS/0mksdsimpaDjhatqpUOyAMDfnSZWuW6Z2JuijjA1IrwshT6EEXxPViTJHmCRvmiUH5sLoQt3CSUbPa5S7R1LuNWKrgw82Yl2ViIxcRfDB8UDtKYR/MAyT51mU1sondX3Ewc3uzd69VjmEIQX+NjxiN4RZxSvPt5gdwJ3keWRxta6OhFa5lS61MojhxfvarkbMQSfsiXarVmmzILnFRNchoN4ulISGyv4w/qsBmlrDPLiqL/TKN+9+6dyEsbOCAVVPtYKXC0ej0LXvuqDpA0aHjyi51A1RqNJZVFI4aFHbR152EFzpifh3WXl0q3Np4BU5DcNuZzclu2OJNk1SXmTBr0FqNEkUCLbEVpZn8fpxEKqC8Wyy9Tm4qZ+L0aq/vT7OGcxs9x6CH8noKP3vcI0y2vInODFuHSpvOupdQvn+WOhANLLpeyQCUWBt1T2ckojiw3J+irnk7W2QbJOLPXcN+/aBKrLGEP9WKonFr4VxAIstJERNqxud+ZSHUusWkSVA0F5NoxzhNuzLoF71u49O/Oa3lKWjFAz+H4i97BVrOaYke0akW/ycC9BTmBU/1mAv5jFDStpaFGS4RaKo/EKjsHxP9awxh8z5PyGJ+xn48xEq81fGPmEo=
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QVQ5LaCXktm5dkWnWbmQMPREvQ1FPMgu0cgHj2x5+MQ081VVtL8KI24LRk+PZ2e7pzVMbiUjD3SygM/8rJ9gc3iFcNMhYXC3z0F4N8QvkcpC7LTSkBUGr2fav5gMeu2OUpbKjePsp6w28WHlk+QY30b2e+8he24NS9wihWOFSJdJWp03KVPnVjPWJCo+0ha311E4GvpneyYQWTUU15064N0RdoVt4GVnKq83jGe9Rcoy2TKxFbqgYGwDKv0NByO/8gbOE/HpnTxvYemJJEw+M14Ksi1HNw6ALowJG0IZNNX+TzzQi+a6xgnmNHq5w0P0Bb2h4fQUOgaFSftq/JE0/j/1sinWB3SnICl+CA+kRFBigDTg8dJaHpVqqffzZV9T7xvBuXdhb8EE/2YAyYxnLb9N2N3qtnOrPhrM96STfuVAkfHt+Z9y5yLyz8NZd7L9NFBTnQ36JCJRdTwgu96kYu4xoiVhI1ueyIvy3uNeNBfxPvvUJt9CD1q4BidGanxdvEQV1HDvNYljkUbeUMba/THrjv1HIw4uFGxluDBSOAuFsS0mNwpHxbseEsJZqUo+JFtMX6kfEhZ4Rdtz78HEoaLV19n5pbC9wh8SrTMbKBSLC0glG8kMCPp1EqUOimozbA==
+    learner_created: false
+status: Unchecked
+record: -1

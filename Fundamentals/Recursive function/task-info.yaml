@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 42
+        length: 186
+        placeholder_text: /* Add the function body */
+        initial_state:
+          length: 27
+          offset: 25
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: l/9M/Va4z0pO9717Y9fPh1fmKPaanwUSghJSmq/GaaW4+QuIHx1XhSo7hqpKLf/6dLGcXFpohBbvO/ZIEYjT9YKavYx2n4gVHEVl3g9sBMBxIUNyEybtDa/kh0pmPgkE+7hQGUCdKkTy1M7EGz4AmnGT8u+e7Noyaynr1ayoULbzZiorzzihCdHwWhA85ElHxQBeSJxWuL2A3YdR1dfPFPzb0NO2sAu07F5JX8T/aDURzmBHHgR2+BI2hvo8d055
+    encrypted_text: t/gy0j9LAkrNFyQHK95MV5A3zwMCrQmedzLVoME2iVHpRX/8fJ3BBAvC/JoXqNusPA1Pa4aPWj2KAg47/q3mjA==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5Qa+6rLwov/Cwf4SmLyon//goDT/nFECKG7UYdku8z8ofKHkiR8iWftfh5Y1yEHriwx4gQJ5GYkGmPqkYYua/u8vykU3Vbfu5txEZ2wEjexiiFINxg6l5u2xlbrfuBCYLezzbT3fzaQyMHtPlaz0b4DOKznFqdAQSDXy+VyKN27cf6dYC+GHXtlpDTyp2vVbG8OuI6RirFC6+kMADR3KGU3DQWXshrTatNPJ8taT23ebIz6aLxuDC8PLtB/t1fz+LPJXGNLdbZ+R+yz4xiY+Qa9Mf1m9EWZD5DKSByK8j+QqUrO2gyjGKtN+KJCofSOelXlc9LvAaubFOsPr2N8BeDGiTTmuW9DsLry5ZxOer7ib+a2VQEbmjQR+j+3p2nXcTTP+T72pa1CDzkMfetqdUhVLiaYH3te6Oj2RCJcYANVpu
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 22 Jan 2024 08:30:03 UTC"
+record: -1

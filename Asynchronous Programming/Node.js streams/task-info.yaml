@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: task.js
+    visible: true
+    encrypted_text: eTwP4kS2yX0ynHR4053r6C1dHUQqmj/i3+JN0xerUPcBD/g4tefZVpO6QjxgTh5gg/ci91WajeJ0YPJyvIivTIun8fwzV+i+ioA5HO2+u9FZG5grv0ZBEhLmMc8boJIYg0r1WBGI/j7t3iICsY5V5KFZp4enbfDdChXL2gKM3K8nRBFOAwgkuWm03TUFNeaIZslCuGif0Ki0WvjdDpZ2wTBqD7RXlz591TUmDNGlKFFqGeOLao0GJwkdutBEeeaFpIMYvqwj2tVU1fV2RPJ1ztBllaREYpxq6xS+seiF95jfCS4WUFEURQryXCObzvylmWGordsYRsXaFEslVIku2b5I8gl4HWX+MKYnkMh8qWgzW5HWrR01l4wkxC+vmxEjq/sS1Lwq0DhMvrJ6MYfoMlhnVqPvOnChLpn+Odbeai4Q0Vq58YNxpIbOjxCyvU3u+IRZVYnvw9qEdhYOkhCIyF3ibYg+HNSKSiXHU4hH3Ls+rv+T9m6lATP3Tfk0hByELdK1uq24nQfObEf8n5JgVA==
+    learner_created: false
+  - name: data.txt
+    visible: true
+    encrypted_text: 99B9Z5Di+SQtu3jazcB/srR/1rXvufI5+yk3SDxxvRuLzSVA8wB8c70COGN51XNmJiauQISuO5V90I592fqGd65Qr+zhp1ZVzG2b9IGR7QbsvWlc41kQAphSy4w4kNko
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

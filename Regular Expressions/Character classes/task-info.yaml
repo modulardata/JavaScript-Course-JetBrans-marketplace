@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 129
+        length: 70
+        placeholder_text: /* Write the function for matching phone numbers like 079 999
+          99 99 */
+        initial_state:
+          length: 70
+          offset: 129
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 2eBpd3LDb9OJfwhffMmp61vWWZD5yY1aColDsHsVv06nCxBL9R3Q2afi5ub/O/OgljgfGj8mVlRvBKr0Y9xqtzKlTd9M6wahOMkaCmgMg3xVcCxmMWcgryGpGPxvMDq8UyULTcYsf1bEtdBx5wLzKEyCQjZeU10oy6ShqljmQMWwJWiFvU3Ce5PNPVcMNevsNST8rEM0IQetBuVWFYHiyA==
+    encrypted_text: 4b/vQvdorbH5ecqBAlULFVzDE319UsNVs3mgVmVSrKfnvTSvRQzU0eaUoFlBtrzHubOAq6g9IlUV9/CXAYwmuinIbOmx9ulmY7tRbOF4r5EwfUcBcR/qkqOuaL7T3blVYkdodB5NNkwzMWeNt2qoMnqLTbs67nDTOsKcQ5FRVEiazxh7tyLuerQs/FvUJn6xnHQge8lgCy7Y1aI3wc66MUx7Z3y+UNqjHPr6pUqkE4VOsY7u3mlCRTj5WJU3pVD12LtcQpbTcOGzuUAjzUtxug==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QWzn4skKmmC2wI2P5NtM6ESQ5FofDdEZGerfAAFwNhSCP5QIbo36rJUdtZK86rkStW4rY85QrYwI6vTxUpkapODXrmIN6H7Gmeo2gOt/oq7J5ZbDrjpm21dfm2qwvw2PWDsLAEInFEAxdmbHkifq22hZiONcr0i7xVuL8CzFKPzz2Xmi3VxNxdEf8C3FcwHThRWn++Q1qWrwioIdx+ntZltLvoy/LjM0Ks7aDf8ZKaD6o+sJBAF7D65So4uDcXlgug==
+    learner_created: false
+status: Unchecked
+record: -1
